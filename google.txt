@@ -1,0 +1,1 @@
+docker tag raulsepulvedasynaptic/prueba1 us-central1-docker.pkg.dev/synaptic-raul-sepulveda/prueba1/prueba1
